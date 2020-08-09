@@ -63,6 +63,7 @@ npm run serve
 | dataConvertion | - | 否 |  | 可对当前列中值做自动转换，如："en": "英文名", 当此列中的值为“en”时，将在页面上显示“英文名”。如当前值不存在于转换规则中，将直接显示当前值。
 | style | - | 否 |  | 当前列的显示样式。
 
+<!-- 
 <style>
 table th:first-of-type {
     width: 10%;
@@ -76,4 +77,4 @@ table th:nth-of-type(3) {
 table th:nth-of-type(4) {
     width: 20%;
 }
-</style>
+</style> -->
